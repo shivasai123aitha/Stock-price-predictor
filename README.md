@@ -22,4 +22,4 @@ pip install -r requirements.txt
 
 ## Run
 
-python stock_predictor.py
+python stock_price_predictor.py
